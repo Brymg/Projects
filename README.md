@@ -1,4 +1,15 @@
-# Projects
-Hola a todos!, mi nombre es Brayan Moreno G. Gracias por estar aqui viendo mis proyectos.
-Este repositorio es la representación de mi experiencia. Aqui se encontran los proyectos que he decidido realizar para empezar mi camino como Data Science.
-Todos los proyectos son realizados unicamente por mi y la razon de esto es tratar de representar fielmente mis habilidades.
+# Proyecto Gestion de Datos
+Cuál es su problemática
+
+- Que se encuentra en su repositorio
+
+- 
+- Cuantos datos tomó, de que son y cuantas características tienen
+
+  
+- Que encontró en los datos
+
+
+
+
+- Cómo su descubrimiento podría dar valor a una empresa
